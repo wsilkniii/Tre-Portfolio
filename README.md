@@ -1,4 +1,4 @@
-# Portfolio Project_
+# Portfolio Project
 
 #### This is a site made by HTML, CSS, JavaScript
 
@@ -6,8 +6,7 @@
 
 ## Description
 
-_This site is a home page for my portfolio.
-
+This site is a home page for my portfolio.
 
 ## Contact Details
 
