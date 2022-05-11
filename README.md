@@ -1,8 +1,8 @@
-#_Portfolio Project_
+# Portfolio Project_
 
-####_This is a site made by HTML, CSS, JavaScript
+#### This is a site made by HTML, CSS, JavaScript
 
-####_Tre Silknitter_
+#### Tre Silknitter
 
 ## Description
 
